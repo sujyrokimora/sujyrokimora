@@ -1,7 +1,8 @@
+
 # 👋 Hey there, I'm **Xavier Cruz** 
 
 🎓 **Studying:** Computer Engineering  
-🇵🇹 **Country:** Portugal  
+🇵🇹   **Country:** Portugal  
 
 ---
 
@@ -51,8 +52,19 @@
 
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+### 🎮 **Games I Enjoy:**
+
+- **Favorite Games:**  
+  ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+  ![No Man's Sky](https://img.shields.io/badge/No%20Man's%20Sky-FF4C4C?style=for-the-badge&logo=nomanssky&logoColor=white)
+  ![Red Dead Redemption 2](https://img.shields.io/badge/Red%20Dead%20Redemption%202-B22222?style=for-the-badge&logo=reddeadredemption2&logoColor=white)
+  ![DOOM](https://img.shields.io/badge/DOOM-E03C31?style=for-the-badge&logo=doom&logoColor=white)
+  ![Project Zomboid](https://img.shields.io/badge/Project%20Zomboid-556B2F?style=for-the-badge&logoColor=white)
+  ![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-FF8C00?style=for-the-badge&logo=forza&logoColor=white)
 
 ---
+# My stats
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujyrokimora&count_private=true)
 
 # Top used languages 
