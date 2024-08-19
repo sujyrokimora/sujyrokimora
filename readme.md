@@ -30,6 +30,23 @@
 
 ---
 
+### 🛠️ **Tools & IDEs I Work With:**
+
+- **IDEs:**  
+  ![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+- **Networking Tools:**  
+  ![GNS3](https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white) 
+  ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-009688?style=for-the-badge&logo=cisco&logoColor=white)
+
+- **Virtualization:**  
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
+  ![VMware Workstation Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
+  
+  ---
+
 ### 🌱 **Currently Exploring:**
 
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
