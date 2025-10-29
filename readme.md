@@ -28,6 +28,7 @@
 
 - **Minecraft Development:**  
   - Bukkit / Paper / Spigot API  
+  - Former **Owner**, **Administrator**, and **Maintainer** of a **small public Minecraft server** — handled **server management**, **plugin integration**, and **community support**  
 
 ---
 
@@ -45,6 +46,20 @@
 - **Virtualization:**  
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
   ![VMware Workstation Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+
+---
+
+### 🐧 **Linux & Homelab Experience:**  
+
+I have some experience managing **Linux servers**, mainly on **Ubuntu**, where I maintain a **homelab** that includes:  
+
+- VPN access and tunneling setup  
+- Hosting **game servers** for friends  
+- Running a **personal media server**  
+- Experimenting with **network configurations**, **virtualization**, and **automation tools**  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
 ---
 
@@ -70,11 +85,12 @@
   ![DOOM](https://img.shields.io/badge/DOOM-E03C31?style=for-the-badge&logo=doom&logoColor=white)  
   ![Project Zomboid](https://img.shields.io/badge/Project%20Zomboid-556B2F?style=for-the-badge&logoColor=white)  
   ![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-FF8C00?style=for-the-badge&logo=forza&logoColor=white)  
+  ![Death Stranding](https://img.shields.io/badge/Death%20Stranding-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white)  
 
 ---
 
-# My stats  
+# 📊 **My Stats**  
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujyrokimora&count_private=true)  
 
-# Top used languages  
+# 🧠 **Top Used Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujyrokimora)](https://github.com/anuraghazra/github-readme-stats)  
