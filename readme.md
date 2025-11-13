@@ -56,7 +56,8 @@ I have some experience managing **Linux servers**, mainly on **Ubuntu**, where I
 - VPN access and tunneling setup  
 - Hosting **game servers** for friends  
 - Running a **personal media server**  
-- Experimenting with **network configurations**, **virtualization**, and **automation tools**  
+- Experimenting with **network configurations**, **virtualization**, and **automation tools**
+- Self hosted DNS and DHCP server using pi-hole  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
