@@ -89,11 +89,3 @@ I have some experience managing **Linux servers**, mainly on **Ubuntu**, where I
   ![Project Zomboid](https://img.shields.io/badge/Project%20Zomboid-556B2F?style=for-the-badge&logoColor=white)  
   ![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-FF8C00?style=for-the-badge&logo=forza&logoColor=white)  
   ![Death Stranding](https://img.shields.io/badge/Death%20Stranding-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white)  
-
----
-
-# 📊 **My Stats**  
-![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujyrokimora&count_private=true)  
-
-# 🧠 **Top Used Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujyrokimora)](https://github.com/anuraghazra/github-readme-stats)  
