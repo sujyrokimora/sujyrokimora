@@ -74,7 +74,7 @@ I have some experience managing **Linux servers**, mainly on **Ubuntu**, where I
 ### 🌱 **Currently Exploring:**  
 
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 
 
 ---
