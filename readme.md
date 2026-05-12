@@ -66,14 +66,16 @@ I have some experience managing **Linux servers**, mainly on **Ubuntu**, where I
 
 ### 🏗️ **Used Before (Not an Expert, Didn’t Get Far):**  
 
-- ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-525252?style=for-the-badge&logo=arm&logoColor=white)  
+- ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-525252?style=for-the-badge&logo=arm&logoColor=white)
+- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)    
 
 ---
 
 ### 🌱 **Currently Exploring:**  
 
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)  
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
+
 
 ---
 
