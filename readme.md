@@ -24,7 +24,7 @@
 
 ---
 
-### ⚙️ **APIs I Know:**  
+### ⚙️ **Other things i know:**  
 
 - **Minecraft Development:**  
   - Bukkit / Paper / Spigot API  
